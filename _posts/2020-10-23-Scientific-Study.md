@@ -46,8 +46,8 @@ communication skills as well as a good distraction when things may be going bad.
 
 ### Game Genre and Psychological Functioning
 The genre spread provided an interesting result. Action games were mostly in line with  
-people who had decreased academic performance while role-playing games were preferred more  
-by those who were higher on the shyness/loneliness scale. This is a result that makes  
+people who had decreased academic performance while role-playing games were preferred more by  
+those who were higher on the shyness/loneliness scale. This is a result that makes  
 sense as action games usually take some strategy and time and practice,  
 while role-playing games allow you to go into a completely different  
 world with a bunch of different characters, allowing you to escpae the real world.
