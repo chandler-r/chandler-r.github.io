@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Creation of A Postifix Calculator
-cover-img:
-thumbnail-img:
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
 subtitle: by Chandler Reyes
 ---
 
