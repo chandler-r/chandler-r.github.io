@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Hospital Bed Round-Up
-cover-img: /assets/img/hospitalbed
-thumbnail-img: /assets/img/Doctor
+cover-img: /assets/img/hospitalbed.jpeg
+thumbnail-img: /assets/img/Doctor.jpg
 subtitle: by Chandler Reyes
 ---
 
